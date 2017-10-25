@@ -5,8 +5,8 @@ logo: #/hcz-jekyll-blog/static/img/avatar.png
 github: 
 about: Grupo de estudos
 
-baseurl: #""
-url: #"https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: ""
+url: ""
 
 allowsearch: true
 
