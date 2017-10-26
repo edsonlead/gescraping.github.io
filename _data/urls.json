@@ -23,8 +23,9 @@
 
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/gescraping/",
     "icon": "fa-github"
+    "target": _blank
   },
   {
     "text": "XML Feed",
