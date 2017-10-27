@@ -11,7 +11,7 @@ url: ""
 allowsearch: true
 
 disqus_shortname: gescraping-github-io
-google_analytics: ""
+google_analytics: UA-108821422-1
 
 share:
   twitter_username: ""
